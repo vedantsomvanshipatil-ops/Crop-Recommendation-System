@@ -144,7 +144,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 **VEDANT SOMVANSHI**
 B.E. Computer Engineering | 2026
 📧 vedantsomvanshipatil@gmamil.com
-🔗 [LinkedIn](www.linkedin.com/in/vedanth-somwanshi-2ba87a315) | [GitHub]((https://github.com/vedantsomvanshipatil))
+🔗 [LinkedIn](www.linkedin.com/in/vedanth-somwanshi-2ba87a315) | [GitHub](https://github.com/vedantsomvanshipatil)
 
 ---
 
